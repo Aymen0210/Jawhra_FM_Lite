@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Jawhra FM</string>
+    <string name="app_name1">جوهرة اف ام</string>
+
+    <string name="app_admob_aps">ca-app-pub-7301168288359431~5357189149</string>
+    <string name="app_admob_ban1">ca-app-pub-7301168288359431/2008492146</string>
+    <string name="app_admob_int1">ca-app-pub-7301168288359431/8509966099</string>
+    <string name="app_admob_rew1">ca-app-pub-7301168288359431/1880471384</string>
+
+    <!-- Activity Main -->
+    <string name="text_solde">Solde :</string>
+    <string name="text_free_xp">Get Free 50 Jeton</string>
+    <string name="sharedpreference">RadioJF</string>
+    <string name="promotio_text">Temps Promo</string>
+
+    <!-- Activity Info -->
+    <string name="textView">A propos</string>
+    <string name="textView1">Radio Jawhra FM Apps est une application officielle creer par Mr:</string>
+    <string name="textView2">Email: ab-aymen@live.fr</string>
+    <string name="textView3">Le streaming en arriere plan est compatible, Android 5 jusqu a Android 10</string>
+    <string name="textView4">Merci Beaucoup a tous qu ils m ont aider a developper cette Application</string>
+    <string name="textView5">Cette Application est Compatible avec tout les Terminal Android 4.3 jusqu a Android 10</string>
+    <string name="textView6">Aymen</string>
+    <string name="textView7">Version :</string>
+
+    <!-- Activity no Ads -->
+    <string name="Description_No_ADS">Tu peux désactiver Les pubs pendant 1 heure avec 100 Jeton</string>
+    <string name="Description_No_ADS1">si vous n avez pas plus d argent, vous pouvez cliquer sur cette icône pour obtenir plus d argent gratuitement</string>
+
+    <!-- Activity Setting -->
+    <string name="text_themeSombre">Réglage</string>
+    <string name="dark_test">Thème Sombre :</string>
+    <string name="Radio_selected">Radio Démarage:</string>
+
+    <!-- Activity Main -->
+    <string name="main_image_no_ads_title">Désactiver Les Pubs Gratuitement</string>
+    <string name="main_solde_insuffisant">Votre Solde est insuffisant!</string>
+    <string name="main_temps_promo_terminer">1 Heure est Terminé sans Pubs vous pouvez utiliser une autres!</string>
+    <string name="main_image_des_promo_title">Vous Allez Désactivez votre promos ?</string>
+    <string name="main_image_sur">Êtes-vous sûr ?</string>
+    <string name="main_image_termin_promo">Vous Avez terminé la periode sans Ads vous pouvez utiliser une autres!</string>
+    <string name="main_oui">Oui</string>
+    <string name="main_non">Non</string>
+    <string name="main_felicitation">Félicitation 50 Jeton ajouter a votre solde</string>
+    <string name="main_pas_ads">Pas de compensation pour le moment , réessayer dans un autre temps</string>
+    <string name="main_back_pressed">Appuyez de nouveau pour vous déconnecter</string>
+
+    <!-- Service -->
+    <string name="service_title">Lecture en cours</string>
+    <string name="service_desc">Tunisie Nouvelles</string>
+
+    <string name="next">SUIVANTE</string>
+    <string name="skip">SAUTER</string>
+    <string name="start">début</string>
+
+    <string name="slide_1_title">Bienvenue sur radio Jawhra FM version 0.9.5</string>
+    <string name="slide_1_desc">nous changeons le design et ajoutons beaucoup de fonctionnalités!</string>
+
+    <string name="slide_2_title">Timeur de dormir</string>
+    <string name="slide_2_desc">vous pouvez choisir temps pour fermer application automatiquement</string>
+
+    <string name="slide_3_title">Désactiver les annonces</string>
+    <string name="slide_3_desc">vous pouvez désactiver la publicité gratuite avec votre solde</string>
+
+    <string name="slide_4_title">Obtenez plus de solde</string>
+    <string name="slide_4_desc">vous pouvez obtenir plus de solde en cliquant sur cette icône</string>
+
+    <string name="slide_5_title">Mode sombre</string>
+    <string name="slide_5_desc">vous pouvez sélectionner le mode sombre depuis le réglage</string>
+
+    <string name="play_again_desc">Pour voir à nouveau le curseur de bienvenue, allez dans Paramètres -> applications -> curseur de bienvenue -> effacer les données</string>
+    <string name="play_again">Rejouer</string>
+
+
+    <!-- Ads Main -->
+    <string name="ads_text">Tout les Radios Tunisien essayer gratuitement</string>
+
+</resources>

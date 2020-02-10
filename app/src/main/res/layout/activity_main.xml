@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:fbutton="http://schemas.android.com/apk/res"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient2"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/barre_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/home"
+                android:layout_width="@dimen/Width_icon"
+                android:layout_height="@dimen/Height_icon"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="8dp"
+                android:padding="8dp"
+                android:src="@drawable/ic_close" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2" />
+
+            <ImageView
+                android:id="@+id/btn_video_ads"
+                android:layout_width="@dimen/Width_icon"
+                android:layout_height="@dimen/Height_icon"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="8dp"
+                android:padding="8dp"
+                android:src="@drawable/gift" />
+
+            <ImageView
+                android:id="@+id/btn_info"
+                android:layout_width="@dimen/Width_icon"
+                android:layout_height="@dimen/Height_icon"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="8dp"
+                android:padding="8dp"
+                android:src="@drawable/ic_info" />
+
+            <ImageView
+                android:id="@+id/btn_reglage"
+                android:layout_width="@dimen/Width_icon"
+                android:layout_height="@dimen/Height_icon"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="8dp"
+                android:padding="8dp"
+                android:src="@drawable/ic_settings" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/barre_top1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/linear5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left">
+
+                <ImageView
+                    android:id="@+id/no_ads"
+                    android:layout_width="120dp"
+                    android:layout_height="@dimen/Height_icon"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/remads"
+                    android:visibility="visible" />
+            </LinearLayout>
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2" />
+
+            <LinearLayout
+                android:id="@+id/linear3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:gravity="right">
+
+                <TextView
+                    android:id="@+id/solde"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorWhiteMode"
+                    android:textSize="26sp" />
+
+                <ImageView
+                    android:layout_width="@dimen/Width_icon"
+                    android:layout_height="@dimen/Height_icon"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:src="@drawable/argent" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="@dimen/Width_image"
+        android:layout_height="@dimen/Height_image"
+        android:layout_gravity="center"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:src="@drawable/j1"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toBottomOf="@+id/linear2" />
+
+    <LinearLayout
+        android:id="@+id/program_Now"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        ads:layout_constraintBottom_toTopOf="@+id/barre_lecteur"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/img_prog_now"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title_prog_now"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/colorWhiteMode"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/desc_prog_now"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/colorWhiteMode"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/type_prog_now"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/colorWhiteMode"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/date_prog_now"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/colorWhiteMode"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/barre_lecteur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        ads:layout_constraintBottom_toTopOf="@+id/adView"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/timer_text_sleep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:textColor="#03A9F4"
+                android:textSize="@dimen/size_text_title"
+                android:visibility="visible" />
+
+
+            <ImageView
+                android:id="@+id/timer_sleep"
+                android:layout_width="@dimen/Width_icon"
+                android:layout_height="@dimen/Height_icon"
+                android:src="@drawable/ic_timer" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btn_transition_time"
+            android:layout_width="@dimen/Width_play_pause"
+            android:layout_height="@dimen/Height_play_pause"
+            android:layout_margin="10dp"
+            android:layout_weight="2"
+            android:src="@drawable/ic_play" />
+
+        <com.rey.material.widget.Button
+            style="@style/YourRippleDrawableStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BUTTON"
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/promotio_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/promotio_text"
+                android:textColor="#03A9F4"
+                android:visibility="invisible" />
+
+            <Chronometer
+                android:id="@+id/timePlaying"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:textColor="@color/colorAccent"
+                android:visibility="invisible" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="FULL_BANNER"
+        ads:adUnitId="@string/app_admob_ban1"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintHorizontal_bias="0.516"
+        ads:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

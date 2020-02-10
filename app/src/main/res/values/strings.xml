@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Jawhra FM</string>
+    <string name="app_name1">جوهرة اف ام</string>
+
+    <string name="app_admob_aps">ca-app-pub-7301168288359431~5357189149</string>
+    <string name="app_admob_ban1">ca-app-pub-7301168288359431/2008492146</string>
+    <string name="app_admob_int1">ca-app-pub-7301168288359431/8509966099</string>
+    <string name="app_admob_rew1">ca-app-pub-7301168288359431/1880471384</string>
+
+    <!-- Activity Main -->
+    <string name="text_solde">Balance :</string>
+    <string name="text_free_xp">Get Free 50 Jeton</string>
+    <string name="sharedpreference">RadioJF</string>
+    <string name="promotio_text">Promo Time</string>
+
+    <!-- Activity Info -->
+    <string name="textView">About</string>
+    <string name="textView1">Radio Jawhra FM is a Lite application created by Mr:</string>
+    <string name="textView2">Email: ab-aymen@live.fr</string>
+    <string name="textView3">Streaming in the background is compatible, Android 5 up to Android 10</string>
+    <string name="textView4">Thank you so much everyone that they helped me develop this application</string>
+    <string name="textView5">This App is Compatible with all Android 4.3 Terminal up to Android 10</string>
+    <string name="textView6">Aymen</string>
+    <string name="textView7">Version :</string>
+
+    <!-- Activity no Ads -->
+    <string name="Description_No_ADS">You can turn off ads for 1 hour with 100 from your Balance</string>
+    <string name="Description_No_ADS1">if you do not have more money, you can click on this icon to get more money for free</string>
+
+    <!-- Activity Setting -->
+    <string name="text_themeSombre">setting</string>
+    <string name="dark_test">Dark Mode:</string>
+    <string name="Radio_selected">Radio:</string>
+
+    <!-- Activity Main -->
+    <string name="main_image_no_ads_title">Disable Pubs For Free</string>
+    <string name="main_solde_insuffisant">Your balance is insufficient!</string>
+    <string name="main_temps_promo_terminer">1 Hour is Finish Without Pubs You Can Use Another!</string>
+    <string name="main_image_des_promo_title">Are you going to deactivate your promos?</string>
+    <string name="main_image_sur">Are you sure ?</string>
+    <string name="main_image_termin_promo">You have completed the period without Ads you can use another!</string>
+    <string name="main_oui">Yes</string>
+    <string name="main_non">No</string>
+    <string name="main_felicitation">Congratulations 50 Jeton add to your balance</string>
+    <string name="main_pas_ads">No compensation at the moment, try again in another time</string>
+    <string name="main_back_pressed">Press back again to logout</string>
+
+    <!-- Service -->
+    <string name="service_title">Reading in progress</string>
+    <string name="service_desc">Tunisia News</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">welcome to radio Jawhra FM version 0.9.5</string>
+    <string name="slide_1_desc">we change the design and add a lot of functionality!</string>
+
+    <string name="slide_2_title">Sleepy walker</string>
+    <string name="slide_2_desc">you can choose time to close application automatically</string>
+
+    <string name="slide_3_title">Disable ads</string>
+    <string name="slide_3_desc">you can disable free advertising with your balance</string>
+
+    <string name="slide_4_title">Get more balance</string>
+    <string name="slide_4_desc">you can get more balance by click on this icon</string>
+
+    <string name="slide_5_title">Dark Mode</string>
+    <string name="slide_5_desc">you can select Dark Mode from setting</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- Ads Main -->
+    <string name="ads_text">All Radio Tunisia Try it Now</string>
+
+</resources>

@@ -1,0 +1,414 @@
+{
+  "project_info": {
+    "project_number": "1050369577297",
+    "firebase_url": "https://new-world-radio.firebaseio.com",
+    "project_id": "new-world-radio",
+    "storage_bucket": "new-world-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:b10395b4ded9e8f13e4370",
+        "android_client_info": {
+          "package_name": "com.newradiolite.jawhrafmlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-1l4nqe0al9ufeafh77m3lnigf4lh4gte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.jawhrafmlite",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:58a50c54bf98116b",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radioalgerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-27e5h9vbqpurn88u7ic2b906m8eutl9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radioalgerie",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~7818168398"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:9a02675d8f126153",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radioegypte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-fqtp71bbsjtq5fu012csu8btguhte7f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radioegypte",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~8531375411"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:08ad2fd8c65a837f",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radiofrance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-2g28n18s8r1tthlavm9cgmvpv6kjo849.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiofrance",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~2524092655"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:fbe9daf227b75def",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radioksa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-tagrea9a3l3c3327grd3l97bacpl7gtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radioksa",
+            "certificate_hash": "217159539145af207d11df8849853a0d5309489b"
+          }
+        },
+        {
+          "client_id": "1050369577297-c84hsjhvt9hkflve1t15mbm8ro9aklp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radioksa",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~3553113618"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:3df0ddd5c5cf083b",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radiomorocco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-h5pc9971ikd7oni4rrqsb0b9ktqtifn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiomorocco",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~6275681500"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:4b88114e51ff0365",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radiooman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-6vnqckekar1d5p9cioibqrg2ek19ej9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiooman",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~9998421245"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:e77da1f258cab5f2",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radioqatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-fadpmq050actr2783hhl5v5cvctmalc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radioqatar",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~6174752923"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:2afd46da94062546",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radiotn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-nsmm9nal69qat6nqqg6qci28jqgm3i04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiotn",
+            "certificate_hash": "56c26342b9ed462fd4dbc3cc3de361a7d94c830b"
+          }
+        },
+        {
+          "client_id": "1050369577297-eqdar37q4bf15sn5tlgrsprpic6eq025.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiotn",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~7261727674"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050369577297:android:9d474580ae44dbb9",
+        "android_client_info": {
+          "package_name": "com.newradiolite.radiouae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050369577297-d1h6cajcn2uj4ekmlke7v84tppvo9gsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiouae",
+            "certificate_hash": "c5379d3450610177953efdb2512ef09b34fec649"
+          }
+        },
+        {
+          "client_id": "1050369577297-4q99a6maebd3rab5qlhk9b1ahsl3nq8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newradiolite.radiouae",
+            "certificate_hash": "747f0a88b1def88ec7d709328ce762c7f0c2a409"
+          }
+        },
+        {
+          "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJkJeMQNVD86cTLHpXTMU_oVTb7ddVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050369577297-a0ouqv09e9o711394jnen68t3eallcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7301168288359431~6921437007"
+    }
+  ],
+  "configuration_version": "1"
+}

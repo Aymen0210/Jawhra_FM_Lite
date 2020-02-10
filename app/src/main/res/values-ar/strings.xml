@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">جوهرة اف ام</string>
+    <string name="app_name1">Jawhra FM</string>
+
+    <string name="app_admob_aps">ca-app-pub-7301168288359431~5357189149</string>
+    <string name="app_admob_ban1">ca-app-pub-7301168288359431/2008492146</string>
+    <string name="app_admob_int1">ca-app-pub-7301168288359431/8509966099</string>
+    <string name="app_admob_rew1">ca-app-pub-7301168288359431/1880471384</string>
+
+    <!-- Activity Main -->
+    <string name="text_solde">الرصيد :</string>
+    <string name="text_free_xp">احصل على 50 XP مجانًا</string>
+    <string name="sharedpreference">RadioJF</string>
+    <string name="promotio_text">مدة العرض</string>
+
+    <!-- Activity Info -->
+    <string name="textView">حول التطبيق</string>
+    <string name="textView1">راديو جوهرة اف ام هو تطبيق رسمي أنشأه السيد: </string>
+    <string name="textView2">Email: ab-aymen@live.fr</string>
+    <string name="textView3">البث في الخلفية متوافق مع اندرويد 5 حتى اندرويد 10</string>
+    <string name="textView4">شكرا جزيلا لكل من ساعدتي في تطوير هذا التطبيق</string>
+    <string name="textView5">هذا التطبيق متوافق مع جميع اندرويد 4.3 الاجهزة حتى اندرويد </string>
+    <string name="textView6">أيمن</string>
+    <string name="textView7">النسخة: </string>
+
+    <!-- Activity no Ads -->
+    <string name="Description_No_ADS">يمكنك تعطيل الإعلانات لمدة ساعة واحدة مع 100 </string>
+    <string name="Description_No_ADS1">إذا لم يكن لديك المزيد من المال ، يمكنك النقر فوق هذا الرمز للحصول على المزيد من الأموال مجانًا</string>
+
+    <!-- Activity Setting -->
+    <string name="text_themeSombre">الإعدادات</string>
+    <string name="dark_test">الوضع الليلي</string>
+    <string name="Radio_selected">راديو البداية:</string>
+
+    <!-- Activity Main -->
+    <string name="main_image_no_ads_title">تعطيل الإعلانات مجانا</string>
+    <string name="main_solde_insuffisant">رصيدك غير كافٍ!</string>
+    <string name="main_temps_promo_terminer">انتهى 1 ساعة بدون إعلانات يمكنك استخدام واحدة أخرى!</string>
+    <string name="main_image_des_promo_title">هل ستقوم بإلغاء تنشيط الترويج الخاص بك؟</string>
+    <string name="main_image_sur">هل أنت واثق ؟</string>
+    <string name="main_image_termin_promo">لقد أنهيت الفترة بدون إعلانات يمكنك استخدام أخرى!</string>
+    <string name="main_oui">نعم</string>
+    <string name="main_non">لا</string>
+    <string name="main_felicitation">تهنئة 50 XP إضافة إلى رصيدك</string>
+    <string name="main_pas_ads">لا يوجد إعلانات في الوقت الحالي ، حاول مرة أخرى في وقت آخر</string>
+    <string name="main_back_pressed">اضغط مرة أخرى لتسجيل الخروج</string>
+
+    <!-- Service -->
+    <string name="service_title">القراءة الحالية للراديو</string>
+    <string name="service_desc">أخبار تونس</string>
+
+    <string name="next">التالى</string>
+    <string name="skip">تخطى</string>
+    <string name="start">البداية</string>
+
+    <string name="slide_1_title">مرحبا بكم في راديو جوهرة اف ام الإصدار 0.9.5</string>
+    <string name="slide_1_desc">تم تغيير التصميم واضيف الكثير من الوظائف الى التطبيق</string>
+
+    <string name="slide_2_title">اختر الوقت لإغلاق</string>
+    <string name="slide_2_desc">يمكنك اختيار الوقت لإغلاق التطبيق تلقائيا</string>
+
+    <string name="slide_3_title">عطل الاعلانات</string>
+    <string name="slide_3_desc">يمكنك تعطيل الإعلانات مجانا برصيدك</string>
+
+    <string name="slide_4_title">الحصول على مزيد من الرصيد</string>
+    <string name="slide_4_desc">يمكنك الحصول على مزيد من الرصيد من خلال النقر على هذه الايقونة</string>
+
+    <string name="slide_5_title">الوضع الليلي</string>
+    <string name="slide_5_desc">يمكنك اختيار وضع الليلي من الإعدادات</string>
+
+    <string name="play_again_desc">لرؤية شريط الترحيب مرة أخرى ، انتقل إلى الإعدادات -> التطبيقات -> شريط التمرير الترحيبي -> محو البيانات</string>
+    <string name="play_again">العب مرة أخرى</string>
+
+    <!-- Ads Main -->
+    <string name="ads_text">راديو تونس جربه الان</string>
+
+</resources>

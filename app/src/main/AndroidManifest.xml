@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.newradiolite.jawhrafmlite">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:screenOrientation="portrait"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".loadingsplash"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name"/>
+        <activity android:name=".noAdsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".infoActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".WelcomeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Setting_Activity"
+            android:screenOrientation="portrait"/>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/app_admob_aps" />
+
+        <service android:name=".AudioPlayerService" />
+        <service android:name=".AudioDownloadService" />
+    </application>
+
+</manifest>

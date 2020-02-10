@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Jawhra FM</string>
+    <string name="app_name1">جوهرة اف ام</string>
+
+    <string name="app_admob_aps">ca-app-pub-7301168288359431~5357189149</string>
+    <string name="app_admob_ban1">ca-app-pub-7301168288359431/2008492146</string>
+    <string name="app_admob_int1">ca-app-pub-7301168288359431/8509966099</string>
+    <string name="app_admob_rew1">ca-app-pub-7301168288359431/1880471384</string>
+
+    <!-- Activity Main -->
+    <string name="text_solde">Balance:</string>
+    <string name="text_free_xp">Obtenga 50 tokens gratis</string>
+    <string name="sharedpreference">RadioJF</string>
+    <string name="promotio_text">Tiempo de promoción</string>
+
+    <!-- Activity Info -->
+    <string name="textView">Acerca de</string>
+    <string name="textView1">Radio Jawhra FM Apps es una aplicación oficial creada por Mr: </string>
+    <string name="textView2">Correo electrónico: ab-aymen@live.fr</string>
+    <string name="textView3">La transmisión en segundo plano es compatible, Android 5 a Android 10</string>
+    <string name="textView4">Muchas gracias a todos por ayudarme a desarrollar esta Aplicación</string>
+    <string name="textView5">Esta aplicación es compatible con todos los terminales Android 4.3 hasta Android 10</string>
+    <string name="textView6">Aymen</string>
+    <string name="textView7">Versión:</string>
+
+    <!-- Activity no Ads -->
+    <string name="Description_No_ADS"> Puede desactivar los anuncios durante 1 hora con 100 tokens</string>
+    <string name="Description_No_ADS1">si no tiene más dinero, puede hacer clic en este icono para obtener más dinero gratis </string>
+
+    <!-- Activity Setting -->
+    <string name="text_themeSombre">Configuración</string>
+    <string name="dark_test">Tema oscuro :</string>
+    <string name="Radio_selected">Inicio de radio:</string>
+
+    <!-- Activity Main -->
+    <string name="main_image_no_ads_title">Deshabilitar anuncios gratis</string>
+    <string name="main_solde_insuffisant">Su saldo es insuficiente!</string>
+    <string name="main_temps_promo_terminer">1 hora ha terminado sin anuncios, puede usar otro!</string>
+    <string name="main_image_des_promo_title">Va a desactivar su promoción?</string>
+    <string name="main_image_sur">Estás seguro?</string>
+    <string name="main_image_termin_promo">Has completado el período sin anuncios y puedes usar otro!</string>
+    <string name="main_oui">Sí</string>
+    <string name="main_non">No</string>
+    <string name="main_felicitation">Felicitaciones 50 Token agregar a su saldo</string>
+    <string name="main_pas_ads">Sin compensación en este momento, intente nuevamente en otro momento</string>
+    <string name="main_back_pressed">Presione nuevamente para cerrar sesión</string>
+
+    <!-- Service -->
+    <string name="service_title">Lectura en progreso</string>
+    <string name="service_desc">Noticias de Túnez</string>
+
+    <string name="next">PRÓXIMO</string>
+    <string name="skip">SAUTER</string>
+    <string name="start">inicio</string>
+
+    <string name="slide_1_title">Bienvenido a radio Jawhra FM versión 0.9.5</string>
+    <string name="slide_1_desc">Estamos cambiando el diseño y agregando muchas características!</string>
+
+    <string name="slide_2_title">Caminante soñoliento</string>
+    <string name="slide_2_desc">puedes elegir el tiempo para cerrar la aplicación automáticamente</string>
+
+    <string name="slide_3_title">Deshabilitar anuncios</string>
+    <string name="slide_3_desc">puede desactivar la publicidad gratuita con su saldo</string>
+
+    <string name="slide_4_title">Consigue más equilibrio</string>
+    <string name="slide_4_desc">puede obtener más equilibrio haciendo clic en este icono</string>
+
+    <string name="slide_5_title">Modo oscuro</string>
+    <string name="slide_5_desc">puedes seleccionar el modo oscuro desde la configuración</string>
+
+    <string name="play_again_desc">Para volver a ver el cursor de bienvenida, vaya a Configuración -> aplicaciones -> cursor de bienvenida -> borrar datos</string>
+    <string name="play_again">repetición</string>
+
+
+    <!-- Ads Main -->
+    <string name="ads_text">Todas las radios tunecinas prueban gratis</string>
+
+</resources>
